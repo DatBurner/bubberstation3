@@ -1,0 +1,4 @@
+author: "DatBurner"
+delete-after: True
+changes:
+  - bugfix: "delobotomized the marked one, his AI now works as he properly should."
